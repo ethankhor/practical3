@@ -1,5 +1,5 @@
 package p3.practical3;
-//kelvin fucker
+//kelvin fucker/8800000
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
